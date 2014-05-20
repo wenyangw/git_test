@@ -13,5 +13,6 @@
     <welcome-file>bugfix.jsp</welcome-file>
     <welcome-file>new_feature.jsp</welcome-file>
     <welcome-file>new_feature1.jsp</welcome-file>
+    <welcome-file>bugfix_x.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
