@@ -16,6 +16,8 @@
     <welcome-file>bugfix_x.jsp</welcome-file>
     <welcome-file>feature_x.jsp</welcome-file>
     <welcome-file>feature_x1.jsp</welcome-file>
+    <welcome-file>feature_y.jsp</welcome-file>
     <welcome-file>bugfix_y.jsp</welcome-file>
+    <welcome-file>feature_y1.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
