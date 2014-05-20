@@ -14,5 +14,6 @@
     <welcome-file>new_feature.jsp</welcome-file>
     <welcome-file>new_feature1.jsp</welcome-file>
     <welcome-file>feature_x.jsp</welcome-file>
+    <welcome-file>feature_x1.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
